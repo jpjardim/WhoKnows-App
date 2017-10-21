@@ -24,7 +24,7 @@ link: https://cloud.google.com/appengine/
 
 ## Built With
 
-**Frontend** - HTML, CSS, Vanila JavaScript
-**UI** - JQuery Mobile
-**Backend** - Python
-**Database** - Python NDB
+- **Frontend** - HTML, CSS, Vanila JavaScript
+- **UI** - JQuery Mobile
+- **Backend** - Python
+- **Database** - Python NDB
